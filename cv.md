@@ -1,12 +1,12 @@
 # **Mikhail Nosikov**
 ## *Graphic and Motion Designer*
----
-* Contact
- * mishanos412@gmail.com
- * https://t.me/msh_ns
- * https://github.com/mshns
----
-### Skills
+
+## Contact
+* mishanos412@gmail.com
+* https://t.me/msh_ns
+* https://github.com/mshns
+
+## Skills
 * Adobe Photoshop
 * Adobe Premiere Pro
 * Adobe After Effects
@@ -17,8 +17,9 @@
 * Microsoft Excel
 * Microsoft PowerPoint
 * HTML/CSS
----
-### Education
----
-### Experiense
-### Profile
+
+## Education
+
+## Experiense
+
+## Profile
