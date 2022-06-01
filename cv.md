@@ -10,7 +10,8 @@
 * GitHub: [mshns](https://github.com/mshns "GitHub")
 
 ## Profile
-> Freelance Graphic and Motion Designer with experience creating digital illustrations and animated videos for clients across multiple industries. I am a purposeful, reliable, responsible and hardworking person. I want to learn more about frontend development.
+> Freelance Graphic and Motion Designer with experience creating digital illustrations and animated videos for clients across multiple industries. I am a purposeful, reliable, responsible and hardworking person. 
+>> I want to learn more about frontend development.
 
 ## Skills
 * Adobe Photoshop
@@ -25,11 +26,9 @@
 * HTML/CSS
 
 ## Code Example
-`
-function multiply(a, b){
-  return a * b
-}
-`
+    function multiply(a, b){
+      return a * b
+    }
 
 ## Experiense
 > I have extensive knowledge of Adobe Creative Cloud. Created illustrations and videos for different types of screens and media platforms. I have experience in creating and designing streams. Created and administered several websites.
