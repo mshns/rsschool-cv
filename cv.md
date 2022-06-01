@@ -1,37 +1,44 @@
-# **Mikhail Nosikov**
-*Graphic and Motion Designer*
+# :open_file_folder: **Mikhail Nosikov**
+:computer: *Graphic and Motion Designer*
 
 ---
 
-## Contact
+## :pushpin: Contact
 * E-mail: mishanos412@gmail.com
 * Telegram: [msh_ns](https://t.me/msh_ns "Telegram")
-* Discord: [mishanos#6940](https://discordapp.com/users/mishanos#6940 "Discord")
+* Discord: [Misha (@mshns)](https://discordapp.com/users/mishanos#6940 "Discord")
 * GitHub: [mshns](https://github.com/mshns "GitHub")
 
-## Profile
-Experienced Graphic and Motion Designer adept in creating visual designs using digital illustrations, images, and typography. Committed to helping my clients shape their brand identity through the use of compelling graphic designs. Accustomed to collaborating with other professionals to achieve project goals.
+## :pushpin: Profile
+Freelance Graphic and Motion Designer with experience creating digital illustrations and animated videos for clients across multiple industries. I am a purposeful, reliable, responsible and hardworking person. I want to learn more about frontend development.
 
-## Education
-* Engineer's degree
-   * Lipetsk State Technical University
-
-## Experiense
-Worked directly with clients to produce appealing and compelling presentations that engaged target audiences. Utilized extensive knowledge of Adobe Creative Cloud. Created designs for different screen types and media platforms.
-
-## Skills
+## :pushpin: Skills
 * Adobe Photoshop
 * Adobe Premiere Pro
 * Adobe After Effects
 * Adobe Illustrator
 * Adobe Audition
 * Sparkol Videoscribe
-* Microsoft Word
-* Microsoft Excel
-* Microsoft PowerPoint
+* OBS Studio
+* WordPress
+* Microsoft 365
 * HTML/CSS
 
-## Languages
+## :pushpin: Code Example
+`function multiply(a, b){
+  return a * b
+}`
+
+## :pushpin: Experiense
+I have extensive knowledge of Adobe Creative Cloud. Created illustrations and videos for different types of screens and media platforms. I have experience in creating and designing streams. Created and administered several websites.
+
+   ## :pushpin: Education
+* Frontend developer
+   * Rolling Scopes School
+* Engineer's degree
+   * Lipetsk State Technical University
+
+## :pushpin: Languages
 * Russian
    * Native speaker
 * English
