@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;
+
   font-weight: 100;
 }
 
@@ -194,7 +194,7 @@ body {
 }
 
 .section-profile,
-.section-experiense {
+.section-experience {
   text-indent: 1.5em;
 }
 
@@ -207,6 +207,18 @@ body {
   margin: 10px;
   height: 1px;
   background-color:#003366;
+}
+
+.link {
+  position: relative;
+  text-decoration: none;
+  color: #0099ff;
+  transition: .5s;
+}
+
+.link:hover {
+  color: #fff;
+  background-color: #0099ff;
 }
 
 .skills-item {
@@ -250,13 +262,13 @@ body {
 }
 
 .skills-bar-progress-git {
-  width: 1%;
+  width: 35%;
   height: 10px;
   background-color: #0099ff;
 }
 
 .skills-bar-progress-html {
-  width: 1%;
+  width: 30%;
   height: 10px;
   background-color: #0099ff;
 }
@@ -283,18 +295,6 @@ body {
   align-items: center;
   font-size: 18px;
   color: #0099ff;
-}
-
-.footer-link {
-  position: relative;
-  text-decoration: none;
-  color: #0099ff;
-  transition: .5s;
-}
-
-.footer-link:hover {
-  color: #fff;
-  background-color: #0099ff;
 }
 
 .rs-school {
